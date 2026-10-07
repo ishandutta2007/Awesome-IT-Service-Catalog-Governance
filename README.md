@@ -57,39 +57,39 @@ This repository tracks notable **commercial IT service catalog and governance pl
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated list of leading open-source IT service catalog, ITSM, CMDB, and internal developer portal repositories, **sorted by GitHub star counts (descending)**:
+Below is a curated list of leading open-source IT service catalog, ITSM, CMDB, and internal developer portal repositories, **sorted by GitHub Stars_Counts (descending)**:
 
-- **[Backstage](https://github.com/backstage/backstage)** [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers)  
+- **[Backstage](https://github.com/backstage/backstage)** [![GitHub_Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers)  
   ⚙️ **CNCFR-hosted developer portal platform created by Spotify** — provides an open platform for building developer portals, internal service catalogs, software templates, and technical documentation. **Best for microservice catalog and internal developer platform (IDP) governance**.
 
-- **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
+- **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub_Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
   🌐 **Infrastructure resource modeling & Source of Truth (NSoT)** — comprehensive IPAM, DCIM, and technical service catalog model for network and cloud infrastructure dependencies. **Best for network service catalog & CMDB source of truth**.
 
-- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
   🖥️ **Free Asset and IT Management Software package**, GPL-3.0 licensed. **ITIL Service Desk, licenses tracking, and software auditing**. **Service catalog with self-service portal**. **The de facto open-source IT asset management platform** — used by thousands of organizations worldwide. **Best for integrated ITAM and service desk**.
 
-- **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+- **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
   📩 **Web-based open-source customer support / ticketing system**, AGPL-3.0 licensed. Offers SLA management, custom ticket categories, automated workflows, and self-service customer portal capabilities. **Best for modern open-source help desk and request catalog**.
 
-- **[iTop](https://github.com/Combodo/iTop)** [![GitHub stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
+- **[iTop](https://github.com/Combodo/iTop)** [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
   📂 **Complete open-source ITIL web-based service management tool**, GPL-3.0 licensed with **314 years of estimated COCOMO effort** and active development since 2009. **Fully customizable CMDB, helpdesk, service catalog, and document management**. **Service Catalog Management** — organize and manage detailed service catalogs with clear structured information about available IT services. **User-friendly web portal** for simplified request declaration and tracking with service catalog submission. **ITIL-compatible change management** with differentiated workflows for minor, major, and other change types. **SLA tracking** with reports on resolution times, team performance, and service interruptions. **Best for comprehensive open-source ITSM with service catalog**.
 
-- **[Znuny](https://github.com/znuny/znuny)** [![GitHub stars](https://img.shields.io/github/stars/znuny/znuny?style=social&color=white)](https://github.com/znuny/znuny/stargazers)  
+- **[Znuny](https://github.com/znuny/znuny)** [![GitHub_Stars](https://img.shields.io/github/stars/znuny/znuny?style=social&color=white)](https://github.com/znuny/znuny/stargazers)  
   🔄 **Fork of OTRS Community Edition**, open-source service management suite. Features customer service catalog management, category & item hierarchy, SLA escalations, and ITIL process management. **Best for OTRS-compatible open-source service catalog**.
 
-- **[OTOBO](https://github.com/otobo/otobo)** [![GitHub stars](https://img.shields.io/github/stars/otobo/otobo?style=social&color=white)](https://github.com/otobo/otobo/stargazers)  
+- **[OTOBO](https://github.com/otobo/otobo)** [![GitHub_Stars](https://img.shields.io/github/stars/otobo/otobo?style=social&color=white)](https://github.com/otobo/otobo/stargazers)  
   🎯 **Modern open-source ITSM and ticket system** — flexible customer service portal, ITIL process management, customizable service catalog, and CMDB integration. **Best for community-driven enterprise service desk**.
 
-- **[CMDBuild READY2USE](https://github.com/cmdbuild/cmdbuild)** [![GitHub stars](https://img.shields.io/github/stars/cmdbuild/cmdbuild?style=social&color=white)](https://github.com/cmdbuild/cmdbuild/stargazers)  
+- **[CMDBuild READY2USE](https://github.com/cmdbuild/cmdbuild)** [![GitHub_Stars](https://img.shields.io/github/stars/cmdbuild/cmdbuild?style=social&color=white)](https://github.com/cmdbuild/cmdbuild/stargazers)  
   🏗️ **ITIL-aligned IT service management solution built on CMDBuild**, open-source. **Service Catalogue Management** — define IT services available to users with request and support modalities, availability, SLA, and KPI. **Business and Technical Catalogue** structured in multi-level categories and request types. **Request Fulfilment workflow** manages standard (from Catalogue) and non-standard service requests. **Dependency analysis** among services and configuration items for fault impact analysis. **Reconciliation with Active Directory, OCS Inventory, Microsoft SCCM, VMware vCenter, and AWS**. **Deployed at Camera dei Deputati (Italian Chamber of Deputies)** for IT service catalog management. **Best for ITIL-aligned service catalog with CMDB**.
 
-- **[Heidsoft ITSM](https://github.com/heidsoft/itsm)** [![GitHub stars](https://img.shields.io/github/stars/heidsoft/itsm?style=social&color=white)](https://github.com/heidsoft/itsm/stargazers)  
+- **[Heidsoft ITSM](https://github.com/heidsoft/itsm)** [![GitHub_Stars](https://img.shields.io/github/stars/heidsoft/itsm?style=social&color=white)](https://github.com/heidsoft/itsm/stargazers)  
   🤖 **AI-native enterprise IT service management platform**, Apache-2.0 licensed. **Aims to provide ServiceNow-class core ITSM capabilities** while remaining lightweight, private-deployment friendly, and extensible. **Covers tickets, incidents, problems, changes, releases, service requests, service catalogs, knowledge, SLA, CMDB, and BPMN orchestration**. **AI embedded into triage, summarization, knowledge retrieval, workflow recommendations, audit trails, and controlled tool execution**. **RBAC, tenant isolation, MSP foundations, and organization management**. **Best for AI-native ITSM with ServiceNow-class ambitions**.
 
-- **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)  
+- **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub_Stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)  
   ✨ **Full service desk and ITSM platform**, open-source with **1.0.0 released September 2026**. **Tickets with self-service portal, email integration, SLAs, and knowledge base**. **Assets, software, contracts, and CMDB with dependency mapping**. **Change and problem management plus a war room for major incidents**. **Tasks, forms, workflows, calendar, and learning management system**. **Service status pages, morning checks, Watchtower, and reporting**. **Single sign-on (OIDC), LDAP, Active Directory, and REST API**. **25 languages supported**. **Docker images for x86-64 and ARM (Raspberry Pi, Apple Silicon)**. **Best for modern open-source ITSM with broad capabilities**.
 
-- **[OTRS Community Repository](https://github.com/OTRS/otrs)** [![GitHub stars](https://img.shields.io/github/stars/OTRS/otrs?style=social&color=white)](https://github.com/OTRS/otrs/stargazers)  
+- **[OTRS Community Repository](https://github.com/OTRS/otrs)** [![GitHub_Stars](https://img.shields.io/github/stars/OTRS/otrs?style=social&color=white)](https://github.com/OTRS/otrs/stargazers)  
   📜 **Open-source service management platform with Customer Service Catalogue**. **Category and Item Management** — add categories to group items and items to the catalogue. **Sub-category support** with Parent Category::Child Category display. **Best for customizable service catalog management**.
 
 ---
